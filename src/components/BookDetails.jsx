@@ -5,7 +5,6 @@ import LoadingSpinner from "./LoadingSpinner";
 const BookDetails = () => {
   const bookData = useLoaderData();
   const [fold, setFold] = useState(true);
-  console.log(bookData);
   const { image, title, desc, authors, publisher, year, rating, url, price } =
     bookData;
 
