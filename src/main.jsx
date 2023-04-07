@@ -7,6 +7,7 @@ import Home from "./components/Home";
 import Books from "./components/Books";
 import About from "./components/About";
 import BookDetails from "./components/BookDetails";
+import LoadingSpinner from "./components/LoadingSpinner";
 
 const router = createBrowserRouter([
   {
@@ -31,6 +32,10 @@ const router = createBrowserRouter([
       {
         path: "about",
         element: <About />,
+      },
+      {
+        path: "loader",
+        element: <LoadingSpinner />,
       },
     ],
   },
