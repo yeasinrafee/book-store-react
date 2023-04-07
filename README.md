@@ -8,7 +8,7 @@ Github Repo -> [nextPage-github](https://github.com/yeasinrafee/book-store-react
 
 ## Live Link
 
-Hosted in Netlify -> [nextPage](https://next-page.netlify.app/)
+Hosted in Netlify -> [nextPage](https://scintillating-frangipane-e802c2.netlify.app/)
 
 ## API
 
